@@ -6,6 +6,11 @@
 Here are some ideas to get you started:
 -->
 
+<img src="https://img.shields.io/badge/Html-0082FC?style=flat-square&logo=Html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/Css-DD3A0A?style=flat-square&logo=Css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/>
+
+
 - 🔭 I’m currently working on ... 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
