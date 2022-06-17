@@ -1,7 +1,9 @@
-<div align="center">
+
 ### Hi there 👋
 This is EHOI's GITHUB🐬
 =============
+<div align="center">
+
 
 
 <!--
