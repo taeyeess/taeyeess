@@ -1,6 +1,6 @@
-
-![header](https://capsule-render.vercel.app/api?type=Slice&animation=fadeIn&color=auto&width=1000&height=200&section=header&text=EHOI%20development%20work&fontColor=000000&fontSize=60)
 <div align="center">
+![header](https://capsule-render.vercel.app/api?type=Slice&animation=fadeIn&color=auto&width=1000&height=200&section=header&text=EHOI%20development%20work&fontColor=000000&fontSize=60)
+
 
 ### Hi there 👋
 This is EHOI's GITHUB🐬
