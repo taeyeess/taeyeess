@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=Slice&animation=fadeIn&color=auto&width=100%&height=200&section=header&text=EHOI%20development%20work&fontColor=000000&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=Slice&animation=fadeIn&color=auto&width=1000&height=200&section=header&text=EHOI%20development%20work&fontColor=000000&fontSize=60)
 <div align="center">
 
 ### Hi there 👋
