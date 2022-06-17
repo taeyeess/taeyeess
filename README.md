@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 
 ![taeyeess's github stats](https://github-readme-stats.vercel.app/api?username=taeyeess&show_icons=true)
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftaeyeess&count_bg=%2331C5FF&title_bg=%23000000&icon=ghostery.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 <!-- 
 - 🔭 I’m currently working on ... 
 - 🌱 I’m currently learning ...
