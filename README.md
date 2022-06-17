@@ -6,9 +6,6 @@
 This is EHOI's GITHUB🐬
 =============
 
-![header](https://capsule-render.vercel.app/api?type=Slice&animation=fadeIn&color=auto&height=200&section=header&text=Hwuk%20development%20work&fontColor=000000&fontSize=35)
-<div align="center">
-
 
 
 <!--
